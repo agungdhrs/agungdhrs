@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agung Dharma Saputra</h1>
-<h3 align="center">A passionate (bug) software engineer from Indonesia</h3>
+<h3 align="center">A ordinary human from Indonesia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
