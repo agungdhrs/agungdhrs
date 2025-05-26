@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,py,react,mysql,laravel,bootstrap,css,dart,debian" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,py,react,mysql,laravel,bootstrap,css,dart,php" />
   <img src="https://skillicons.dev/icons?i=firebase,flask,flutter,tailwind,js,vue,gcp,html,kotlin,postman" />
 </p>
 
